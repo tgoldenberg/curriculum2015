@@ -6,7 +6,7 @@
 Begin this session by completing the [Do Now](doNow.md) activity.
 
 ##Scope
-Every website on the internet was designed and wireframed by a team of developers. The website for the company you are at is no exception. Your manager has tasked you to re-brand the company's homepage. They believe the current homepage is dated and it is time for a new look. You have been given 1 week to complete this rebranding project.
+Every website on the internet was designed and wireframed by a team of developers. ScriptEd wants you to design a wireframe for a chat app to be used by all ScriptEd students. You will have to use modern design techniques and implement colors, fonts, logos, and branding to achieve a great design. 
 
 ##Project Criteria
 Your Manager has laid out the following requirements for the project: 
@@ -27,14 +27,14 @@ By the end of this project the employee will be able to...
 
 ##References/Tools
 * [What is a wireframe?](https://en.wikipedia.org/wiki/Website_wireframe)
-* [Online Wireframing Tool](http://wireframe.cc) (Optional tool)
+* [Online Wireframing Tool](https://gomockingbird.com/) (Optional tool)
 * [How to create a GitHub Repository](https://help.github.com/articles/create-a-repo/)
-* [Bootstrap](http://getbootstrap.com/)
+* [Bootstrap](http://getbootstrap.com/getting-started/)
 
 ##Vocabulary
 
 * Wireframing
-* Paired Programming
+* Pair Programming
 * Bootstrap 
 
 ***
@@ -76,8 +76,7 @@ In order to set this up click on the "Share" button in the top right-hand corner
 Your Manager has offered a stipend a $500 for each of the bonus requirements listed below: 
 
 * Add CSS to this project using Bootstrap. Give your project it's own theme
-* Create a game with more variety in throwing opitons. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock) 
-***
+
 
 ##Grading Criteria
 Your manager will be grading your capability on this project based on [this rubric](assessment.md).
