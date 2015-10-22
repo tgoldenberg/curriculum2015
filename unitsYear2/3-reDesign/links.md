@@ -1,6 +1,6 @@
 #COLORS
 
-- [Material Design](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=material%20colors)
+- [Material Design](https://www.google.com/design/spec/style/color.html#color-color-palette)
 - [HTML Color Picker](http://www.w3schools.com/tags/ref_colorpicker.asp)
 
 # ICONS 
