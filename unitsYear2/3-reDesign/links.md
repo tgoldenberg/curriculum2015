@@ -9,3 +9,7 @@
 
 # FONTS
 - [Google Fonts](https://www.google.com/fonts)
+
+# ANIMATION
+- [Animate.css](animate.css)
+-
