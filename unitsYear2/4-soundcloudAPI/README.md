@@ -13,15 +13,6 @@ For this project, you should:
 - Write some blog content for others to see 
 - Host it on the web!
 
-
-##Learning Objectives
-By the end of this project the employee will be able to...
-
-* Obtain a Client ID by registering their application with SoundCloud
-* Initialize their application using SC.initialize
-* Get information from an API using SC.get
-* Use jQuery to append text to an HTML page
-
 ##References/Tools
 * [official Rails site](http://rubyonrails.org/)
 * [ruby docs](http://ruby-doc.org/)
